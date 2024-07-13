@@ -5,5 +5,4 @@ You can chekout on me at my:
                    .Twitter: [x.com/Lodj1k](https://x.com/Lodj1k)
                    .instagram: https://www.instagram.com/1tx.him_/
 
-                   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=honoresh)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
