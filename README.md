@@ -45,9 +45,9 @@
 
 <hr width="60%">
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
- <div align="center" style="margin-top: 20px;">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+ <div align="leftr" style="margin-top: 20px;">
   <a href="https://www.linkedin.com/in/honore-shimirwa-5a854428a/" target="blank" style="margin: 0 15px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="honore-shimirwa" height="30" width="40"/>
   </a>
