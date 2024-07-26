@@ -53,6 +53,9 @@
   <a href="https://www.instagram.com/1tx.him_/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="1tx.him_" height="30" width="40"/>
   </a>
+   <a href="https://x.com/Lodj1k" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="honore-shimirwa" height="30" width="40"/>
+  </a>
 </p>
 <br>
 <p align="left">
