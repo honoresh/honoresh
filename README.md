@@ -47,15 +47,17 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/honore-shimirwa-5a854428a/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="honore-shimirwa" height="30" width="40"/>
+ <div align="center" style="margin-top: 20px;">
+  <a href="https://www.linkedin.com/in/honore-shimirwa-5a854428a/" target="blank" style="margin: 0 15px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="honore-shimirwa" height="30" width="40"/>
   </a>
-  <a href="https://www.instagram.com/1tx.him_/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="1tx.him_" height="30" width="40"/>
+  <a href="https://www.instagram.com/1tx.him_/" target="blank" style="margin: 0 15px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="1tx.him_" height="30" width="40"/>
   </a>
-  <a href="https://x.com/Lodj1k" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" height="30" width="40"/>
+  <a href="https://x.com/Lodj1k" target="blank" style="margin: 0 15px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" height="30" width="40"/>
   </a>
+</div>
 </p>
 <br>
 <p align="left">
